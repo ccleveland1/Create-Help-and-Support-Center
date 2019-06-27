@@ -1,0 +1,152 @@
+.outer-container{
+	position: absolute;
+	width: 659px;
+	height: 738px;
+	left: 388px;
+	top: 63px;
+    margin-top: 20px;
+	background: #FFFFFF;
+	border: 2px solid #A6C9E2;
+	box-sizing: border-box;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	border-radius: 10px;
+}
+.nav-bar .fa-bullhorn{
+	color:#0360EB;
+	position: absolute;
+	font-size: 30px;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	left: 909px;
+	top: 7px;
+}
+.main-header{
+	display: inline-block;
+}
+.header-border{
+	margin-top: 3px;
+    margin-bottom:7px;
+    border: 0;
+    border-top: 2px solid #A6C9E2;
+}
+.title{
+    margin-left: 10px;
+    margin-top: 25px;
+    font-size: 18px;
+    color: #0567F9;
+    font-size: 24px;
+    display: inline-block;
+}
+.version-history{
+    margin-left: 200px;
+    display: inline-block;
+    margin-top: 30px;
+    color: #0066FF;
+    font-size: 18px;
+}
+.version-history .button{
+	    color: #0066FF;
+}
+.main-header .fa-bullhorn{
+	color:#0360EB;
+	font-size: 25px;
+    margin-left: 10px;
+    /* top: 88px; */
+    margin-top: 10px;
+    display: inline-block;
+}
+.right-side{
+	float:right;
+	margin-left: 20px;
+
+}
+.icons{
+	display:inline-block;
+	margin-left: 15px;
+}
+.action-icon{
+	display: inline-block;
+	font-size: 20px;
+	margin-right: 10px;
+	margin-top: 30px;
+}
+.exit-icon{
+	display: inline-block;
+	font-size: 28px;
+    margin-left: 15px;
+    float: right;
+}
+
+/* BODY */
+
+.version{
+	float:right;
+	margin-top:10px;
+	margin-bottom: 10px;
+	margin-right: 30px;
+	font-size: 20px;
+}
+
+.section-title-1{
+	margin-top: 30px;
+	margin-left:30px;
+	font-size: 18px;
+}
+.section-title{
+	margin-top: 10px;
+	margin-left:30px;
+	font-size: 18px;
+}
+.list{
+	margin-left: 30px;
+	margin-top: 5px;
+	font-size: 18px;
+}
+.line{
+	margin-top: 10px;
+    margin-bottom: 0px;
+    padding-bottom: 3px;
+    border: 0;
+    width:90%;
+    text-align: center;
+    border-top: 1px solid #A6C9E2;
+}  
+
+/* VERSION HISTORY PAGE - SOME OF THE ATTRIBUTES THAT HAD TO BE MADE UNIQUE */
+
+.section-title-2{
+	margin-left:30px;
+	font-size: 18px;
+}
+.action-icon-2{
+	display: inline-block;
+	font-size: 15px;
+	margin-right: 10px;
+	margin-left:15px;
+	margin-top: 5px;
+    color: #0066FF;
+}
+.exit-icon-2{
+	font-size: 28px;
+    margin-right: 15px;
+}
+.right-side-2{
+	float:right;
+}
+.fa-angle-left{
+    font-size: 28px;
+    color: #0066FF;
+    margin-left: 15px;
+}
+.title-2{
+    margin-left: 10px;
+    margin-top: 25px;
+    font-size: 18px;
+    color:#000000;
+    font-size: 24px;
+    display: inline-block;
+}
+.time-stamp{
+	float:right;
+	margin-right:20px;
+}
